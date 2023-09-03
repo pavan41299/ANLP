@@ -1,0 +1,14 @@
+numpy==1.25.2
+torch==2.0.0
+random
+tensorflow
+re
+nltk
+matplotlib
+word2vec
+GloVe
+nltk
+pytorch 
+torchtext==0.6   
+spacy==3.6.1
+sklearn
